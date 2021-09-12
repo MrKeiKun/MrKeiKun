@@ -12,6 +12,6 @@
     - Never gonna make you cry
     - Never gonna say goodbye
     - Never gonna tell a lie and hurt you
-Mind talks
-- MSVS vs Clang... have you heard about gcc?
-- Discord is the best! let me introduce you to its father IRC...
+- Mind talks
+    - MSVS vs Clang... have you heard about GCC?
+    - Discord is the best! let me introduce you to its father IRC...
