@@ -1,5 +1,4 @@
 @MrKeiKun
-- Location: Philippines, fucking hot in here
 - Doings
     - Wrote alot of Hacks in PR
     - Watching Random Netflix Series
